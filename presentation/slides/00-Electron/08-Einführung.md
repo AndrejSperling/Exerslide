@@ -15,7 +15,7 @@ Renommierte Anwendungen wie "Atom - von Github", "Visual Studio Code - von Micro
 #### 1.4 Auf welchen Technologien es basiert
 Electron ist in den Programmiersprachen C++ und JavaScript geschrieben. Es besteht aus den folgenden plattformunabhängigen Komponenten: HTML/CSS, JavaScript/Node.js und Google Chromium
 ###### 1.4.1 Architekturdiagramm
-![picture](./img/Architekturdiagramm_Electron.png)
+![picture](https://raw.githubusercontent.com/KSWE-2016-17/Exerslide/master/presentation/slides/00-Electron/img/Architekturdiagramm_Electron.png)
 ###### 1.4.2 HTML und CSS
 HTML und CSS ermöglichen die präzise, strukturelle und visuelle Definition zum Erscheinungsbild der Applikationen.
 ###### 1.4.3 JavaScript und NodeJS
